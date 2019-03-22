@@ -1,19 +1,19 @@
 # Causal Discrimination Discovery Through Propensity Score Analysis
 
-___________________________________________________________________________
+________________________________________________________________
 
-                                  Python Version Dependency                                                                 
-___________________________________________________________________________
+			Python Version Dependency
+________________________________________________________________
 
 	1-  Python version 3.6.3
 	2-  Anaconda Spyder version 3.2.4  
 
-____________________________________________________________________________
+________________________________________________________________
 
-                                  Package Dependencies                                                                 
-____________________________________________________________________________
+			Package Dependencies
+________________________________________________________________
 
-# We need to install the following packages
+### We need to install the following packages
 
 	1-  pandas
 	2-  ExtraTreesClassifier from sklearn.ensemble
@@ -27,10 +27,10 @@ ____________________________________________________________________________
 	10- StringIO from sklearn.externals.six
 	11- pydotplus (sometimes graphviz has to be installed seperately)
 
-_____________________________________________________________________________
+_________________________________________________________________
 
-                                  Input File and Basic Execution                                                             
-_____________________________________________________________________________
+			Input File and Basic Execution
+_________________________________________________________________
 
 	1-  Input file needs to be in a csv format
 	2-  Input file should contain two binary attributes "class" & "sensitive" with the following values
