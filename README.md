@@ -56,6 +56,6 @@ _________________________________________________________________
 		RDC_RDNC_Graph.py
 		Group_Comp_Graph.py
 		Regression_Tree.py
-	7-  Output would contain 6 graphs and 2 trees in PDF format in the same folder else you would have to set an 
-		absolute/relative path in the last four files
+	7-  Output would contain 6 graphs and 2 trees in PDF format in the same folder else you would have to set 
+	an absolute/relative path in the last four files
 
