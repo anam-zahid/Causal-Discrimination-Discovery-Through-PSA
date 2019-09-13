@@ -1,4 +1,4 @@
-# Causal Discrimination Discovery Through Propensity Score Analysis
+# Causal Inference for Social Discrimination Reasoning
 
 ________________________________________________________________
 
